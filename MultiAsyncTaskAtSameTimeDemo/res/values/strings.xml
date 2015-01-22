@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">MultiAsyncTaskAtSameTimeDemo</string>
+    <string name="Async1">Normal one by one / Serial execution</string>
+    <string name="Async2">Parellel execution</string>
+
+</resources>
